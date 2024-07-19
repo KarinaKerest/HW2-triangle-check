@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "description": "User enters three identical numbers that form an equilateral triangle"
+  },
+  {
+    "id": 2,
+    "description": "Entering large numbers (the program correctly processes such large numbers and outputs a triangle without losing precision)"
+  },
+  {
+    "id": 3,
+    "description": "Entering fractional integers (the program correctly processes such numbers and outputs a triangle)"
+  },
+  {
+    "id": 4,
+    "description": "Entering fractional numbers (the program correctly processes such numbers and outputs a triangle)"
+  },
+  {
+    "id": 5,
+    "description": "Entering numbers with many decimal places (the program correctly processes such large numbers and outputs a triangle without losing precision)"
+  },
+  {
+    "id": 6,
+    "description": "Entering numbers in not all inputs: 1 out of 3, 2 out of 3, 3 out of 3 (the program gives an error in this case)"
+  },
+  {
+    "id": 7,
+    "description": "Entering incorrect data that do not form a triangle (e.g., the sum of two sides is less than or equal to the third)"
+  },
+  {
+    "id": 8,
+    "description": "Entering negative numbers (in 1 field, 2 fields, 3 fields)"
+  },
+  {
+    "id": 9,
+    "description": "User enters three identical numbers (2 digits, 3 digits, 4 digits, etc.) with spaces between them (1, 2, 3, 4, 5, 6 spaces - there can be many cases)"
+  },
+  {
+    "id": 10,
+    "description": "Entering symbols (in 1 field, 2 fields, 3 fields) - the program indicates that not all fields are filled and gives an error"
+  },
+  {
+    "id": 11,
+    "description": "Entering symbols between numbers (1 symbol, 2, 3, 4, etc.) in 1 out of 3 inputs, 2 out of 3, 3 out of 3"
+  },
+  {
+    "id": 12,
+    "description": "Entering symbols before/after numbers (1 symbol, 2, 3, 4, etc.) in 1 out of 3 inputs, 2 out of 3, 3 out of 3"
+  },
+  {
+    "id": 13,
+    "description": "Entering text instead of numbers (in 1 out of 3 inputs, 2 out of 3, 3 out of 3)"
+  },
+  {
+    "id": 14,
+    "description": "Entering text between numbers (1 symbol, 2, 3, 4, etc.) in 1 out of 3 inputs, 2 out of 3, 3 out of 3"
+  },
+  {
+    "id": 15,
+    "description": "Entering text before/after numbers (1 symbol, 2, 3, 4, etc.) in 1 out of 3 inputs, 2 out of 3, 3 out of 3"
+  },
+  {
+    "id": 16,
+    "description": "Entering empty values in 1 field, 2 fields, 3 fields (pressing 'Enter' without entering data)"
+  },
+  {
+    "id": 17,
+    "description": "Entering empty values in 1 field, 2 fields, 3 fields (for example, a space)"
+  },
+  {
+    "id": 18,
+    "description": "Entering empty values between numbers (1, 2, 3, 4 spaces, etc.) in 1 out of 3 inputs, 2 out of 3, 3 out of 3"
+  },
+  {
+    "id": 19,
+    "description": "Entering empty values before/after numbers (1, 2, 3, 4 spaces, etc.) in 1 out of 3 inputs, 2 out of 3, 3 out of 3"
+  },
+  {
+    "id": 20,
+    "description": "Checking boundary values (-1, 0, 1, etc., +1449, 1500, 1501 for example)"
+  },
+  {
+    "id": 21,
+    "description": "User enters three different numbers (1, 2 digits, 3 digits, 4 digits, etc.) with spaces between them (1, 2, 3, 4, 5, 6 spaces - there can be many cases)"
+  },
+  {
+    "id": 22,
+    "description": "Checking the handling of special characters (in 1 field, 2 fields, 3 fields)"
+  },
+  {
+    "id": 23,
+    "description": "Checking the entry of letters in numerical input fields (in 1 field, 2 fields, 3 fields)"
+  },
+  {
+    "id": 24,
+    "description": "Checking the program's performance when processing a large amount of data"
+  },
+  {
+    "id": 25,
+    "description": "Checking on different platforms (operating systems and devices)"
+  },
+  {
+    "id": 26,
+    "description": "Checking in different user languages (localization)"
+  }
+]
